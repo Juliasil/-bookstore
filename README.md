@@ -53,7 +53,7 @@ Você pode encontrar consultas de exemplo para selecionar, atualizar e excluir d
 O arquivo `wild_card.sql` contém consultas que utilizam wildcards para realizar buscas flexíveis nos dados. Essas consultas permitem realizar pesquisas mais amplas e abrangentes nos registros do banco de dados.
 
 ![image](https://github.com/Juliasil/-bookstore/assets/85976415/71a2e8d4-38df-4ca3-b22b-3cea52ee0620)
-]
+
 
 
 ## Contribuições
